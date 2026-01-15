@@ -32,6 +32,8 @@ website:
         href: outreach.qmd
       - text: "EDI"
         href: PeerEcoEvo.qmd
+      - text: "Tools"
+        href: Tools.qmd
       - text: "CV"
         href: CV-JINGDI_one_page.pdf
 

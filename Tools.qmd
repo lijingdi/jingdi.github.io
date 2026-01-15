@@ -1,0 +1,14 @@
+---
+title: "Tools"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## [iqKM](https://github.com/lijingdi/iqKM/tree/master): A Python Package for **Identification and Quantification of KEGG Modules**
+
+***iqKM*** is an easy to use pipeline to assign and/or quantify KEGG
+Orthology (KO) and KEGG modules (KMs) in metagenomes. Detailed pipeline
+below.
+
+![](images/clipboard-2888682970.png)
