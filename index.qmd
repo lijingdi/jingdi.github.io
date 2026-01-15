@@ -1,5 +1,5 @@
 ---
-title: "Jingdi Li \n 李静迪"
+title: "Judy Li \n 李静迪"
 image: images/41768374369_.pic.jpg
 about:
   id: hero-heading
