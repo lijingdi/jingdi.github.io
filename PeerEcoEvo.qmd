@@ -1,0 +1,33 @@
+---
+title: "PeerEcoEvo"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## About
+
+***PeerEcoEvo*** is a peer-support network for early-career researchers
+in ecology and evolution in China. It aims to improve equity and
+inclusion in science, particularly in places where structural barriers
+(hierarchical and patriotic culture, persistent inequity in funding
+concentration, burnout driven by a system that often prioritize elite
+background or titles over actual research) limit participation.
+
+If you are an ECR struggling in such an environment and want to shift
+from a competitive mindset to a collaborative one, or if you don't have
+an elite academic background and feel underrepresented, contact me to
+join this peer-support network (website will be launching soon!).
+
+Although still in its early stage, I envision ***PeerEcoEvo*** to be
+more than an academic network for scientists. It is not only for
+community support and resource sharing, but will also expand into a
+public-facing blog platform, grounded in the belief that while research
+is our profession, science belongs to everyone. I have seen
+non-scientists on social media asking insightful, curious questions.
+With no doubt that public feedback can be a source of inspiration that
+can genuinely help scientists design new experiments in ecology and
+evolution. Imagine the surge of sparks that will arise from this open
+communication!
+
+## Join us to turn isolation into community! 

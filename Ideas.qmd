@@ -1,0 +1,88 @@
+---
+title: "Random ideas"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+This is an open space to share my random thoughts and ideas. Maybe in
+the parallel universe, another version of me would have unlimited
+funding to investigate them all (if they were not yet resolved). You are
+welcome to get in touch if any of the ideas attracts you as well, and we
+can start a conversation!
+
+-   <div>
+
+    [**Why are females sometimes less social?**]{.underline} Could some
+    females avoid social contact because being social increases the risk
+    of catching infections that might harm their babies? Comparing
+    species with different parenting styles (mother-only care vs. shared
+    care) and individuals varying across reproductive states (pregnant
+    vs. non-reproductive females) could reveal to what extent disease
+    risk helps shape social behavior.
+
+    </div>
+
+-   <div>
+
+    [**Do changing environments help maintain genetic diversity within
+    species?**]{.underline} Monnet et al. 2025 shows that plants
+    establish species barriers faster than animals. Maybe it's because
+    the more plastic/changing environment that animals live in so that
+    they can bear more potential cost of variable allele than plants.
+
+    </div>
+
+-   [**When social contact changes the microbiome?**]{.underline} When
+    animals interact socially, how often do they pick up new microbial
+    taxa that actually dominate their microbiome? – if that's the case,
+    we may see decreased alpha diversity from microbiome exposure.
+
+-   [**What are different evolutionary trajectories of pathogens in
+    hosts with different levels of resistance?**]{.underline} Despite
+    many theoretical studies, no common rule found across empirical
+    observations.
+
+-   Parasite diversity accelerates host evolution, and rapid evolution
+    within host populations leads to accelerated divergence. [**Whether
+    and when would this lead to speciation?**]{.underline}
+
+-   [**Is a stable microbiome always better than a changing
+    one?**]{.underline} Some studies (eg. in coral and their
+    microbiomes) suggest not. Under what circumstances that microbiome
+    stability vs. flexibility are beneficial for hosts? Apparently we
+    can't just regard high microbiome alpha diversity as "good" or
+    beneficial.
+
+-   [**What happens when social "hubs" disappear?**]{.underline} If the
+    most socially connected people or animals disappear, how does the
+    group change? For example, in my department, if interactions between
+    everyone being tracked and recorded, a social network with
+    individual person as nodes will be drawn. Individuals with the most
+    links would be central or key hubs, and they can be the department
+    head or administrative staff, or an unexpected colleague who turns
+    out to be a social butterfly. If one of the central hubs is absent
+    (eg. people on leave), how would the social network change?
+
+-   In the west, there is an old saying: Take a third, leave a third,
+    and share a third. This number "**1/3**" may be from the observation
+    that harvesting around one-third often allows populations to
+    replenish themselves. Interestingly, in Chinese traditional culture,
+    《道德经》里有“道生一，一生二，二生三，三生万物。”
+    应用到生态管理上，可以形成
+    “天、地、人”三才和谐共生的最高原则。上面的英文俗语，可以理解为：[**take
+    a third：人类取用一份；leave a
+    third：留一份归地（土地自我修复、物种延续）；share a
+    third：与天享一份（风调雨顺、自然循环）**]{.underline}。What an
+    interesting coincidence!
+
+-   [**Did morality evolve because we need each other?**]{.underline}
+    Did morality arise to help people cooperate, and would it disappear
+    if cooperation weren’t needed? Many moral rules help build trust and
+    prevent cheating. Would human stop pursuing morality in a world
+    without social living?
+
+-   In human history, [**how often do leadership help or cause
+    harm?**]{.underline} What about in animal world?
+
+-   To be continued...
