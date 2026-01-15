@@ -30,7 +30,7 @@ about:
 ::: {#hero-heading}
 ## About Judy
 
-I am a microbial ecologist and currently a postdoctoral researcher in King lab at UBC. I love fairy tales, detective stories and puzzles. I am passionate about accessible science communication (see Outreach), and promoting equity and inclusion in science (see EDI). When I am away from my desk and lab bench, I like hiking, swimming and observing moving objects.
+I am a microbial ecologist and currently a postdoctoral researcher in King lab at UBC. I love fairy tales, detective stories and puzzles. I am passionate about accessible science communication (see [Outreach](https://lijingdi.github.io/jingdi.github.io/outreach.html "Science communication")), and promoting equity and inclusion in science (see [EDI](https://lijingdi.github.io/jingdi.github.io/PeerEcoEvo.html "PeerEcoEvo")). When I am away from my desk and lab bench, I like hiking, swimming and observing moving objects.
 
 ## Research Interests
 
