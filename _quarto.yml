@@ -5,9 +5,9 @@ project:
 website:
   page-navigation: true
   title: "Jingdi (Judy) Li | Microbial ecology and evolution | Animal health"
-  site-url: https://jingdi.github.io
+  site-url: https://judy.github.io
   favicon: images/site-logo.jpg
-  repo-url: https://github.com/lijingdi/jingdi.github.io
+  repo-url: https://github.com/lijingdi/judy.github.io
   repo-actions: [edit, issue]
   
   page-footer:
